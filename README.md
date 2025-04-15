@@ -1,5 +1,5 @@
-Below is a simplified, easy-to-follow guide for installing Sui:
-
+#Install Sui
+---
 **Supported Operating Systems:**
 - **Linux:** Ubuntu 20.04 (Bionic Beaver) or later
 - **macOS:** macOS Monterey or later

@@ -1,4 +1,4 @@
-#Install Sui
+# Install Sui
 ---
 **Supported Operating Systems:**
 - **Linux:** Ubuntu 20.04 (Bionic Beaver) or later
